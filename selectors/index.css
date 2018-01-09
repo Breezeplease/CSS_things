@@ -7,6 +7,11 @@ p {
     font-size: 22px
 }
 
+p:hover {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
 #one {
     background-color: steelblue;
     color: darkorchid
